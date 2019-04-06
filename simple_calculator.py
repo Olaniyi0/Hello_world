@@ -68,6 +68,3 @@ class Calculator:
 
     def raise_to_power(self, a, b):
         print(a**b)
-
-result = Calculator()
-result.
